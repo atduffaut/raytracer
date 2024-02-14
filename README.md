@@ -1,10 +1,10 @@
-#First-Hit Raytracer
+# First-Hit Raytracer
 
-Building and Compilation:
+## Building and Compilation:
 
 1. Install MacPorts https://www.macports.org/install.php
 
-2. Install glew and glfw using MacPorts, the following commands:
+2. Install glew, glfw, and eigen3 using MacPorts, the following commands:
    'sudo port install glew'
    'sudo port install glfw'
    'sudo port install eigen3'
